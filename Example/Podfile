@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BitDebug_Example' do
+  pod 'BitDebug', :path => '../'
+
+  target 'BitDebug_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
