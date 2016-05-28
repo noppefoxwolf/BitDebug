@@ -15,6 +15,7 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		D7FFD4781CF8C7E5008B0700 /* DummyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FFD4771CF8C7E5008B0700 /* DummyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9FC85B290C5EAD47DBC208A2 /* Pods-BitDebug_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitDebug_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BitDebug_Tests/Pods-BitDebug_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A68C507BA5F18076236529AB /* Pods-BitDebug_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitDebug_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-BitDebug_Example/Pods-BitDebug_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C4AEB999B62DC0ACF9E9CB94 /* Pods-BitDebug_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitDebug_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BitDebug_Tests/Pods-BitDebug_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		D7FFD4771CF8C7E5008B0700 /* DummyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DummyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			children = (
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
+				D7FFD4771CF8C7E5008B0700 /* DummyViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
@@ -361,6 +364,7 @@
 			files = (
 				607FACD81AFB9204008FA782 /* ViewController.swift in Sources */,
 				607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */,
+				D7FFD4781CF8C7E5008B0700 /* DummyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

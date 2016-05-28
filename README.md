@@ -1,6 +1,5 @@
 # BitDebug
 
-[![CI Status](http://img.shields.io/travis/Tomoya Hirano/BitDebug.svg?style=flat)](https://travis-ci.org/Tomoya Hirano/BitDebug)
 [![Version](https://img.shields.io/cocoapods/v/BitDebug.svg?style=flat)](http://cocoapods.org/pods/BitDebug)
 [![License](https://img.shields.io/cocoapods/l/BitDebug.svg?style=flat)](http://cocoapods.org/pods/BitDebug)
 [![Platform](https://img.shields.io/cocoapods/p/BitDebug.svg?style=flat)](http://cocoapods.org/pods/BitDebug)
@@ -20,9 +19,14 @@ it, simply add the following line to your Podfile:
 pod "BitDebug"
 ```
 
+```swift
+BitDebug.install(DummyViewController(), forciblyAlwaysDisplay: true)
+BitDebug.show()
+```
+
 ## Author
 
-Tomoya Hirano, tomoya.hirano@dena.com
+Tomoya Hirano, cromteria@gmail.com
 
 ## License
 
