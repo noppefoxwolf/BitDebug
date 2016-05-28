@@ -1,0 +1,16 @@
+PODS:
+  - BitDebug (0.1.0)
+
+DEPENDENCIES:
+  - BitDebug (from `../`)
+
+EXTERNAL SOURCES:
+  BitDebug:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BitDebug: 8638bf7448ccd3f616d7b2794edb424859a05680
+
+PODFILE CHECKSUM: 0af8590ffdae464b7f393e7f1e8acf0e434b820e
+
+COCOAPODS: 1.0.0.beta.6

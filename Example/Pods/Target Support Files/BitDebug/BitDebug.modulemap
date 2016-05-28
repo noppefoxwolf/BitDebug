@@ -1,0 +1,6 @@
+framework module BitDebug {
+  umbrella header "BitDebug-umbrella.h"
+
+  export *
+  module * { export * }
+}
