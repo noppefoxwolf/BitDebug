@@ -24,7 +24,7 @@ pod "BitDebug"
 ```
 
 ```swift
-BitDebug.install(DummyViewController(), forciblyAlwaysDisplay: true)
+BitDebug.install(YourDebugViewController())
 BitDebug.show()
 ```
 
