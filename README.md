@@ -30,7 +30,7 @@ BitDebug.show()
 
 ## ScreenShot
 
-![](https://raw.githubusercontent.com/noppefoxwolf/BitDebug/master/readme/sample.gif)
+![](https://raw.githubusercontent.com/noppefoxwolf/BitDebug/master/readme/sample320.gif)
 
 ## Author
 
