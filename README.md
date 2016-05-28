@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/cocoapods/l/BitDebug.svg?style=flat)](http://cocoapods.org/pods/BitDebug)
 [![Platform](https://img.shields.io/cocoapods/p/BitDebug.svg?style=flat)](http://cocoapods.org/pods/BitDebug)
 
+Your debug menu presentable anywhere.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
