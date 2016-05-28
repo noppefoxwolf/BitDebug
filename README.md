@@ -26,6 +26,10 @@ BitDebug.install(DummyViewController(), forciblyAlwaysDisplay: true)
 BitDebug.show()
 ```
 
+## ScreenShot
+
+![](https://raw.githubusercontent.com/noppefoxwolf/BitDebug/master/readme/sample.gif)
+
 ## Author
 
 Tomoya Hirano, cromteria@gmail.com
